@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "学習者の興味関心を向上させる画像生成AIを用いて編集した全天球画像防災学習コンテンツの予備的検討"
 collection: publications
 permalink: /publication/2025-09-27-jset-annual
 date: 2025-09-27
