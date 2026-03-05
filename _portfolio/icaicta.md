@@ -7,3 +7,5 @@ collection: portfolio
 [ICAICTA2020](https://icaicta.cs.tut.ac.jp/2020/)
 
 [ICAICTA2022](https://icaicta.cs.tut.ac.jp/2022/)
+
+[ICAICTA2024](https://icaicta.cs.tut.ac.jp/2024/)
